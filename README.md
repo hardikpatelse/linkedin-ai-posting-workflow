@@ -80,7 +80,7 @@ Under **Apps Script > Project Settings > Script Properties**, add:
 
 #### 💡 Trigger:
 - Google Sheets → **New or Updated Row**
-- Filter: `Status = Approved` AND `NOW() >= ScheduledTime`
+- Filter: `Status = Approved`
 
 #### 🔁 Action:
 - LinkedIn → Create Share Update (Profile)
